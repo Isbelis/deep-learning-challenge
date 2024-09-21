@@ -89,11 +89,15 @@ In this phase, neural network models were created using early stopping to preven
 
 **- Loss:** 0.5634
 
-![Model_Evaluation_Keras](https://github.com/user-attachments/assets/e23f6785-f40b-4946-927a-eda0a73756a8)
+![Model_Evaluation_Keras](https://github.com/user-attachments/assets/e3efe046-7d20-4de2-a543-62c9c9e7dc9f)
 
-![Training_Validation_AccuracyKeras](https://github.com/user-attachments/assets/2707ecf6-43f1-4ca1-b044-f9dade975c3e)
 
-![Training_Validation_LossKeras](https://github.com/user-attachments/assets/d617e2e2-c956-4621-987e-e76d6a44c1fd)
+![Training_Validation_AccuracyKeras](https://github.com/user-attachments/assets/f7026dd5-28ec-4ac3-9989-ed1da13f4b70)
+
+
+
+![Training_Validation_LossKeras](https://github.com/user-attachments/assets/7de1084e-00c8-4038-a0d9-50f6813341da)
+
 
 **- Model Saved as:** 'AlphabetSoupCharity_Optimization_2_KERAS.h5'
       
@@ -118,9 +122,11 @@ In this phase, neural network models were created using early stopping to preven
    
    **- Loss:** 0.4906
 
-   ![Model_Accuracy_3](https://github.com/user-attachments/assets/f8919266-73d3-46f8-a004-c2cb2a7911ce)
+   ![Model_Accuracy_3](https://github.com/user-attachments/assets/6ac399f7-6f5a-4765-9343-43983730da1e)
 
-  ![Model_loss_3](https://github.com/user-attachments/assets/1882bc83-0175-46e5-bf25-dac53c2098b3)
+
+  ![Model_loss_3](https://github.com/user-attachments/assets/ffbf7d48-622d-42f7-b1ce-51ea6f24aa97)
+
 
    **- Model Saved as:** 'AlphabetSoupCharity_Optimization_3.h5'
    
@@ -142,9 +148,11 @@ In this phase, neural network models were created using early stopping to preven
   
   **- Loss:** 0.4908
   
-  ![Model_Accuracy_4](https://github.com/user-attachments/assets/52d8d4b5-3ed2-4d97-b334-7e69024d5cde)
+  ![Model_Accuracy_4](https://github.com/user-attachments/assets/e6c8badd-8ea6-4547-8caa-27e59794a385)
 
-  ![Model_loss_4](https://github.com/user-attachments/assets/ca700076-2f47-4ad9-992e-f35acfaf660c)
+
+  ![Model_loss_4](https://github.com/user-attachments/assets/ad2a70a9-829a-4b31-b596-d40b8333deaf)
+
 
 
   **- Model Saved as:** 'AlphabetSoupCharity_Optimization_4.h5'
